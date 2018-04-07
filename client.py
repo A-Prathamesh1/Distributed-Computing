@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """client.py : This file allows client to enter numbers in order to perform add, subtract, multiply, division"""
-__author__ = "Priyanka Nalawade Net Id: vu2628 & Prathamesh Ausekar Net ID:eq7948"
+__author__ = "Prathamesh Ausekar Net ID:eq7948"
 
 
 import socket
