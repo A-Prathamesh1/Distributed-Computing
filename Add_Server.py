@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Add_Server.py : This file performs addition"""
-__author__ = "Priyanka Nalawade Net Id: vu2628 & Prathamesh Ausekar Net ID:eq7948"
+__author__ = "Prathamesh Ausekar Net ID:eq7948"
 
 import socket
 import json
