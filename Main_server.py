@@ -18,7 +18,7 @@ PORT = config.get('main').get('port')
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind((HOST, PORT))
 server_socket.listen(MAX_CON)
-print
+#print
 
 while True:
     # receive connections from outside
