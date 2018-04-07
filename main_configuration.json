@@ -1,0 +1,36 @@
+{
+    "main" : {
+        "host": "localhost",
+        "port": 4000,
+        "name": "Server for Main",
+        "Description": "Mention Operation to perform....."
+    },
+
+    "addition" : {
+        "host": "localhost",
+        "port": 4001,
+        "name": "Server for Addition operation",
+        "Description": "You will get result in JSON for Addition operation"
+    },
+
+    "subtraction": {
+        "host": "localhost",
+        "port": 4002,
+        "name": "Server for Subtraction operation",
+        "Description": "You will get result in JSON for Subtraction operation "
+    },
+
+    "multiplication" : {
+        "host": "localhost",
+        "port": 4003,
+        "name": "Server for Multiplication operation",
+        "Description": "You will get result in JSON for Multiplication operation"
+    },
+
+    "division" : {
+        "host": "localhost",
+        "port": 4004,
+        "name": "Server for Division operation",
+        "Description": "You will get result in json for Division operation"
+    }
+}
