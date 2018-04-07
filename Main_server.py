@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Main_Server.py : This file displays all details about each activities in this application"""
-__author__ = "Priyanka Nalawade Net Id: vu2628 & Prathamesh Ausekar Net ID:eq7948"
+__author__ = "Prathamesh Ausekar Net ID:eq7948"
 
 import socket
 import json
